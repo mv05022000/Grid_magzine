@@ -1,0 +1,49 @@
+.header{
+    border: 1px solid black;
+    width: 100%;
+    height: 1200px;
+    background-color: rgba(48, 44, 44, 0.863);
+}
+#h1{
+    position: relative;
+    top: -100px;
+    color:orangered;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 150px;
+}
+#pera{
+    position: relative;
+    top: -210px;
+    text-align: center;
+    color: orangered;
+    font-size: 55px;
+}
+#pre{
+position: relative;
+top: -250px;
+font-size: 30px;
+left: 2.5%;
+color: aliceblue;
+}
+#nav{
+    position: relative;
+    top: -410px;
+    float: right;
+    height: 50px;
+    width: 50%;
+    
+    
+}
+#img{
+ padding: 50px;
+    width: 5%;
+    height: 50px;
+}
+
+.grid-container {
+    display: grid;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
